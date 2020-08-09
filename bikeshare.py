@@ -25,7 +25,7 @@ def get_filters():
         try:
             city = str(input('\nPlease choose a city (Chicago, new york city or washington): \n')).lower()
             if city not in CITY_DATA.keys():
-                print('Invalid input\n')
+                print('Invalid input. Please correct! \n')
                 continue
             else:
                 break
