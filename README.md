@@ -1,5 +1,5 @@
 ### Date created
-09.08.2020
+09.08.2020 - 22:20
 
 ### Project Title
 USA Bike-share Data Analysis
