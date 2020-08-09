@@ -5,7 +5,7 @@
 Bike-share Data Analysis
 
 ### Description
-The Data analysis of bike share data of some states of the USA
+The Data analysis of bike share data of some states of the USA (Chicago - Newyork city- Washington)
 
 ### Files used
 bikeshare.py
